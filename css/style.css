@@ -1,9 +1,4 @@
-.navbar-header {
-  font-family: 'Courgette', cursive;
-  font-size: 18px;
-}
-
-.navbar {
-  font-family: 'Courgette';
-  font-size: 16px;
+p {
+  font-family: monospace;
+  font-size: 72px;
 }
