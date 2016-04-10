@@ -1,4 +1,3 @@
-p {
-  font-family: monospace;
-  font-size: 72px;
+.navbar-header {
+  font-family: 'Courgette', cursive;
 }
