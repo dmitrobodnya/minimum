@@ -1,7 +1,6 @@
 .navbar-header {
   font-family: 'Courgette', cursive;
 }
-
-.dropdown {
-  font-family: 'Courgette', cursive;
+.navbar-text {
+  font-family: 'Lora', serif;
 }
